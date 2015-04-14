@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : Spring4Skeleton : Spring4Skeleton.war (exploded)">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spring4Skeleton/exploded/Spring4Skeleton.war</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Spring4Skeleton/web/Web Gradle : Spring4Skeleton.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Spring4Skeleton" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: spring-core-4.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: commons-logging-1.1.3" />
+          <element id="library" level="project" name="Gradle: spring-webmvc-4.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: thymeleaf-2.1.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: thymeleaf-spring4-2.1.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: thymeleaf-layout-dialect-1.2.5" />
+          <element id="library" level="project" name="Gradle: thymeleaf-extras-springsecurity3-2.1.1.RELEASE" />
+          <element id="library" level="project" name="Gradle: slf4j-api-1.7.5" />
+          <element id="library" level="project" name="Gradle: spring-beans-4.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-context-4.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-expression-4.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-web-4.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: ognl-3.0.6" />
+          <element id="library" level="project" name="Gradle: javassist-3.16.1-GA" />
+          <element id="library" level="project" name="Gradle: unbescape-1.0" />
+          <element id="library" level="project" name="Gradle: spring-aop-4.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: aopalliance-1.0" />
+          <element id="library" level="project" name="Gradle: slf4j-log4j12-1.7.5" />
+          <element id="library" level="project" name="Gradle: log4j-1.2.17" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/Spring4Skeleton/exploded/Spring4Skeleton.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
